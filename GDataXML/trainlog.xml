@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ArrayOfAnyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000017</ResourceID><Name>Story time</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000017/Story time.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>1</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000018</ResourceID><Name>Let's sing</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000018/Let's sing.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000019</ResourceID><Name>Let's talk</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000019/Let's talk.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000020</ResourceID><Name>Let's learn</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000020/Let's learn.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000021</ResourceID><Name>Let's chant</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000021/Let's chant.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000022</ResourceID><Name>Let's talk</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000022/Let's talk.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000023</ResourceID><Name>Let's learn</Name><FtpPath>/lgftp/中小学资源库/一年级/声文同步L0000023/Let's learn.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+    
+    <anyType xsi:type="JNXL_Struct_ZLGL"><ResourceID>L0000024</ResourceID><Name>Let's sing</Name><FtpPath>/lgftp/中小学资源库/一年级/Let's singL0000024/Let's sing.wlg</FtpPath><LevelID>1</LevelID><SkillType>1</SkillType><TrainMode>AC</TrainMode><Score>-1</Score><StudyDate/><TimeLength>0</TimeLength></anyType>
+
+</ArrayOfAnyType>

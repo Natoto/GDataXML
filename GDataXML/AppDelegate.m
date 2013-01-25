@@ -13,6 +13,29 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    //获取工程目录的xml文件
+
+    
+    /*
+    //获取根节点下的节点（User）
+    NSArray *users = [rootElement elementsForName:@"User"];
+    
+    for (GDataXMLElement *user in users) {
+        //User节点的id属性
+        NSString *userId = [[user attributeForName:@"id"] stringValue];
+        NSLog(@"User id is:%@",userId);
+        
+        //获取name节点的值
+        GDataXMLElement *nameElement = [[user elementsForName:@"name"] objectAtIndex:0];
+        NSString *name = [nameElement stringValue];
+        NSLog(@"User name is:%@",name);
+        
+        //获取age节点的值
+        GDataXMLElement *ageElement = [[user elementsForName:@"age"] objectAtIndex:0];
+        NSString *age = [ageElement stringValue];
+        NSLog(@"User age is:%@",age);
+        NSLog(@"-------------------");
+    }*/
     return YES;
 }
 							

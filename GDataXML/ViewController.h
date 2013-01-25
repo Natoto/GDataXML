@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+<UITableViewDataSource,UITableViewDelegate>
+{
+    IBOutlet UITableView *tableview;
+}
+@property(nonatomic,retain) NSMutableDictionary *dict;
+@property(nonatomic,retain) NSMutableArray *list;
 @end
